@@ -1,2 +1,2 @@
 # improved-spoon
-THis is the improved spoon project, forks not allowed.
+This is the improved spoon project, forks not allowed.
